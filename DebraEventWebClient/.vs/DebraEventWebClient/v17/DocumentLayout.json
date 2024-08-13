@@ -1,0 +1,388 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Debra\\DebraEventWebClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|d:\\debra\\debraeventwebclient\\debraeventwebclient\\pages\\viewcommission.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|solutionrelative:debraeventwebclient\\pages\\viewcommission.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|d:\\debra\\debraeventwebclient\\debraeventwebclient\\pages\\viewcommission.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|solutionrelative:debraeventwebclient\\pages\\viewcommission.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|d:\\debra\\debraeventwebclient\\debraeventwebclient\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|solutionrelative:debraeventwebclient\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|d:\\debra\\debraeventwebclient\\debraeventwebclient\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|solutionrelative:debraeventwebclient\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|d:\\debra\\debraeventwebclient\\debraeventwebclient\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|solutionrelative:debraeventwebclient\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|d:\\debra\\debraeventwebclient\\debraeventwebclient\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|solutionrelative:debraeventwebclient\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|d:\\debra\\debraeventwebclient\\debraeventwebclient\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|solutionrelative:debraeventwebclient\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|d:\\debra\\debraeventwebclient\\debraeventwebclient\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|solutionrelative:debraeventwebclient\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|d:\\debra\\debraeventwebclient\\debraeventwebclient\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|solutionrelative:debraeventwebclient\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|d:\\debra\\debraeventwebclient\\debraeventwebclient\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|solutionrelative:debraeventwebclient\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|d:\\debra\\debraeventwebclient\\debraeventwebclient\\wwwroot\\css\\footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|solutionrelative:debraeventwebclient\\wwwroot\\css\\footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|d:\\debra\\debraeventwebclient\\debraeventwebclient\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|solutionrelative:debraeventwebclient\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|d:\\debra\\debraeventwebclient\\debraeventwebclient\\wwwroot\\css\\webclient.styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|solutionrelative:debraeventwebclient\\wwwroot\\css\\webclient.styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|d:\\debra\\debraeventwebclient\\debraeventwebclient\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|solutionrelative:debraeventwebclient\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|d:\\debra\\debraeventwebclient\\debraeventwebclient\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|solutionrelative:debraeventwebclient\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|d:\\debra\\debraeventwebclient\\debraeventwebclient\\wwwroot\\css\\privacy.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|solutionrelative:debraeventwebclient\\wwwroot\\css\\privacy.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|d:\\debra\\debraeventwebclient\\debraeventwebclient\\model\\ticketcommission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|solutionrelative:debraeventwebclient\\model\\ticketcommission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|d:\\debra\\debraeventwebclient\\debraeventwebclient\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|solutionrelative:debraeventwebclient\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|d:\\debra\\debraeventwebclient\\debraeventwebclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|solutionrelative:debraeventwebclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|d:\\debra\\debraeventwebclient\\debraeventwebclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|solutionrelative:debraeventwebclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|d:\\debra\\debraeventwebclient\\debraeventwebclient\\debraeventwebclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|solutionrelative:debraeventwebclient\\debraeventwebclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|d:\\debra\\debraeventwebclient\\debraeventwebclient\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|solutionrelative:debraeventwebclient\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|d:\\debra\\debraeventwebclient\\debraeventwebclient\\debraeventwebclient.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7069EE64-E224-48D4-9D63-311737EBA028}|DebraEventWebClient\\DebraEventWebClient.csproj|solutionrelative:debraeventwebclient\\debraeventwebclient.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DebraEventWebClient\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DebraEventWebClient\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T04:06:13.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewCommission.cshtml.cs",
+              "DocumentMoniker": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\Pages\\ViewCommission.cshtml.cs",
+              "RelativeDocumentMoniker": "DebraEventWebClient\\Pages\\ViewCommission.cshtml.cs",
+              "ToolTip": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\Pages\\ViewCommission.cshtml.cs",
+              "RelativeToolTip": "DebraEventWebClient\\Pages\\ViewCommission.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:16:17.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Footer.css",
+              "DocumentMoniker": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\wwwroot\\Css\\Footer.css",
+              "RelativeDocumentMoniker": "DebraEventWebClient\\wwwroot\\Css\\Footer.css",
+              "ToolTip": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\wwwroot\\Css\\Footer.css",
+              "RelativeToolTip": "DebraEventWebClient\\wwwroot\\Css\\Footer.css",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-28T03:33:28.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "DebraEventWebClient\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "DebraEventWebClient\\Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-27T18:06:24.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewCommission.cshtml",
+              "DocumentMoniker": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\Pages\\ViewCommission.cshtml",
+              "RelativeDocumentMoniker": "DebraEventWebClient\\Pages\\ViewCommission.cshtml",
+              "ToolTip": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\Pages\\ViewCommission.cshtml",
+              "RelativeToolTip": "DebraEventWebClient\\Pages\\ViewCommission.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T09:43:01.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DebraEventWebClient\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "DebraEventWebClient\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T18:21:06.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DebraEventWebClient\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "DebraEventWebClient\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T08:54:29.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "DebraEventWebClient\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "DebraEventWebClient\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T02:52:31.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "DebraEventWebClient\\Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "DebraEventWebClient\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAChAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T19:39:43.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "DebraEventWebClient\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "DebraEventWebClient\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T02:59:42.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "DebraEventWebClient\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\Pages\\Index.cshtml",
+              "RelativeToolTip": "DebraEventWebClient\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T02:57:00.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "DebraEventWebClient\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "DebraEventWebClient\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T18:12:44.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Home.css",
+              "DocumentMoniker": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\wwwroot\\Css\\Home.css",
+              "RelativeDocumentMoniker": "DebraEventWebClient\\wwwroot\\Css\\Home.css",
+              "ToolTip": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\wwwroot\\Css\\Home.css",
+              "RelativeToolTip": "DebraEventWebClient\\wwwroot\\Css\\Home.css",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-28T03:24:26.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\wwwroot\\Css\\site.css",
+              "RelativeDocumentMoniker": "DebraEventWebClient\\wwwroot\\Css\\site.css",
+              "ToolTip": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\wwwroot\\Css\\site.css",
+              "RelativeToolTip": "DebraEventWebClient\\wwwroot\\Css\\site.css",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-26T03:42:58.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WebClient.styles.css",
+              "DocumentMoniker": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\wwwroot\\Css\\WebClient.styles.css",
+              "RelativeDocumentMoniker": "DebraEventWebClient\\wwwroot\\Css\\WebClient.styles.css",
+              "ToolTip": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\wwwroot\\Css\\WebClient.styles.css",
+              "RelativeToolTip": "DebraEventWebClient\\wwwroot\\Css\\WebClient.styles.css",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-28T03:45:37.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Privacy.css",
+              "DocumentMoniker": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\wwwroot\\Css\\Privacy.css",
+              "RelativeDocumentMoniker": "DebraEventWebClient\\wwwroot\\Css\\Privacy.css",
+              "ToolTip": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\wwwroot\\Css\\Privacy.css",
+              "RelativeToolTip": "DebraEventWebClient\\wwwroot\\Css\\Privacy.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-28T04:05:40.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TicketCommission.cs",
+              "DocumentMoniker": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\Model\\TicketCommission.cs",
+              "RelativeDocumentMoniker": "DebraEventWebClient\\Model\\TicketCommission.cs",
+              "ToolTip": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\Model\\TicketCommission.cs",
+              "RelativeToolTip": "DebraEventWebClient\\Model\\TicketCommission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T02:49:51.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\appsettings.json",
+              "RelativeDocumentMoniker": "DebraEventWebClient\\appsettings.json",
+              "ToolTip": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\appsettings.json",
+              "RelativeToolTip": "DebraEventWebClient\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T09:40:31.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\Program.cs",
+              "RelativeDocumentMoniker": "DebraEventWebClient\\Program.cs",
+              "ToolTip": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\Program.cs",
+              "RelativeToolTip": "DebraEventWebClient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:37:09.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "DebraEventWebClient\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "DebraEventWebClient\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-27T18:40:15.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DebraEventWebClient.csproj",
+              "DocumentMoniker": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\DebraEventWebClient.csproj",
+              "RelativeDocumentMoniker": "DebraEventWebClient\\DebraEventWebClient.csproj",
+              "ToolTip": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\DebraEventWebClient.csproj",
+              "RelativeToolTip": "DebraEventWebClient\\DebraEventWebClient.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T09:41:04.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DebraEventWebClient\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DebraEventWebClient\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T10:39:42.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DebraEventWebClient",
+              "DocumentMoniker": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\DebraEventWebClient.csproj",
+              "RelativeDocumentMoniker": "DebraEventWebClient\\DebraEventWebClient.csproj",
+              "ToolTip": "D:\\Debra\\DebraEventWebClient\\DebraEventWebClient\\DebraEventWebClient.csproj",
+              "RelativeToolTip": "DebraEventWebClient\\DebraEventWebClient.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T10:39:12.573Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\dkalh\\onedrive\\desktop\\sss\\debra api\\debraeventapp\\debraeventapp\\data\\partnerregisterrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\data\\partnerregisterrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\dkalh\\onedrive\\desktop\\sss\\debra api\\debraeventapp\\debraeventapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\dkalh\\onedrive\\desktop\\sss\\debra api\\debraeventapp\\debraeventapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\dkalh\\onedrive\\desktop\\sss\\debra api\\debraeventapp\\debraeventapp\\data\\addeventrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\data\\addeventrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\dkalh\\onedrive\\desktop\\sss\\debra api\\debraeventapp\\debraeventapp\\model\\partnerregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\model\\partnerregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\dkalh\\onedrive\\desktop\\sss\\debra api\\debraeventapp\\debraeventapp\\controllers\\addticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\controllers\\addticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\dkalh\\onedrive\\desktop\\sss\\debra api\\debraeventapp\\debraeventapp\\model\\addticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\model\\addticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\dkalh\\onedrive\\desktop\\sss\\debra api\\debraeventapp\\debraeventapp\\data\\iaddticketrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\data\\iaddticketrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\dkalh\\onedrive\\desktop\\sss\\debra api\\debraeventapp\\debraeventapp\\data\\addticketrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\data\\addticketrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\dkalh\\onedrive\\desktop\\sss\\debra api\\debraeventapp\\debraeventapp\\controllers\\addeventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\controllers\\addeventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\dkalh\\onedrive\\desktop\\sss\\debra api\\debraeventapp\\debraeventapp\\controllers\\partnerregistercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\controllers\\partnerregistercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\dkalh\\onedrive\\desktop\\sss\\debra api\\debraeventapp\\debraeventapp\\profiles\\addeventprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\profiles\\addeventprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\dkalh\\onedrive\\desktop\\sss\\debra api\\debraeventapp\\debraeventapp\\data\\ipartnerregisterrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\data\\ipartnerregisterrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\dkalh\\onedrive\\desktop\\sss\\debra api\\debraeventapp\\debraeventapp\\dto\\addeventcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\dto\\addeventcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\dkalh\\onedrive\\desktop\\sss\\debra api\\debraeventapp\\debraeventapp\\dto\\addeventreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\dto\\addeventreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\dkalh\\onedrive\\desktop\\sss\\debra api\\debraeventapp\\debraeventapp\\dto\\addticketcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\dto\\addticketcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\dkalh\\onedrive\\desktop\\sss\\debra api\\debraeventapp\\debraeventapp\\dto\\addticketreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\dto\\addticketreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\dkalh\\onedrive\\desktop\\sss\\debra api\\debraeventapp\\debraeventapp\\dto\\partnerlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\dto\\partnerlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\dkalh\\onedrive\\desktop\\sss\\debra api\\debraeventapp\\debraeventapp\\dto\\partnerregistercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\dto\\partnerregistercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\dkalh\\onedrive\\desktop\\sss\\debra api\\debraeventapp\\debraeventapp\\dto\\partnerregisterreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\dto\\partnerregisterreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\dkalh\\onedrive\\desktop\\sss\\debra api\\debraeventapp\\debraeventapp\\model\\addevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\model\\addevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\dkalh\\onedrive\\desktop\\sss\\debra api\\debraeventapp\\debraeventapp\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\dkalh\\onedrive\\desktop\\sss\\debra api\\debraeventapp\\debraeventapp\\model\\partnerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\model\\partnerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\dkalh\\onedrive\\desktop\\sss\\debra api\\debraeventapp\\debraeventapp\\profiles\\addticketprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\profiles\\addticketprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\dkalh\\onedrive\\desktop\\sss\\debra api\\debraeventapp\\debraeventapp\\profiles\\partnerregisterprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\profiles\\partnerregisterprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\dkalh\\onedrive\\desktop\\sss\\debra api\\debraeventapp\\debraeventapp\\data\\iaddeventrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\data\\iaddeventrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\dkalh\\onedrive\\desktop\\sss\\debra api\\debraeventapp\\debraeventapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\dkalh\\onedrive\\desktop\\sss\\debra api\\debraeventapp\\debraeventapp\\debraeventapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20D8ED91-143C-40C0-A932-67D98B020F28}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\debraeventapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddEventReadDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\DTO\\AddEventReadDTO.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\DTO\\AddEventReadDTO.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\DTO\\AddEventReadDTO.cs",
+              "RelativeToolTip": "DebraEventApp\\DTO\\AddEventReadDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:27:57.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddTicket.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Model\\AddTicket.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\Model\\AddTicket.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Model\\AddTicket.cs",
+              "RelativeToolTip": "DebraEventApp\\Model\\AddTicket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T05:35:38.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "DebraEventApp\\Data\\AppDBContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T22:34:42.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PartnerRegister.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Model\\PartnerRegister.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\Model\\PartnerRegister.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Model\\PartnerRegister.cs",
+              "RelativeToolTip": "DebraEventApp\\Model\\PartnerRegister.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T05:52:51.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAddTicketRepo.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Data\\IAddTicketRepo.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\Data\\IAddTicketRepo.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Data\\IAddTicketRepo.cs",
+              "RelativeToolTip": "DebraEventApp\\Data\\IAddTicketRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T05:38:24.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddTicketRepo.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Data\\AddTicketRepo.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\Data\\AddTicketRepo.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Data\\AddTicketRepo.cs",
+              "RelativeToolTip": "DebraEventApp\\Data\\AddTicketRepo.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAswAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T05:40:12.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PartnerRegisterRepo.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Data\\PartnerRegisterRepo.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\Data\\PartnerRegisterRepo.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Data\\PartnerRegisterRepo.cs",
+              "RelativeToolTip": "DebraEventApp\\Data\\PartnerRegisterRepo.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T04:09:19.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddTicketReadDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\DTO\\AddTicketReadDTO.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\DTO\\AddTicketReadDTO.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\DTO\\AddTicketReadDTO.cs",
+              "RelativeToolTip": "DebraEventApp\\DTO\\AddTicketReadDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:58:19.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Program.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\Program.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Program.cs",
+              "RelativeToolTip": "DebraEventApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T05:43:12.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddEventRepo.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Data\\AddEventRepo.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\Data\\AddEventRepo.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Data\\AddEventRepo.cs",
+              "RelativeToolTip": "DebraEventApp\\Data\\AddEventRepo.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAwwEcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T15:23:13.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddTicketController.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Controllers\\AddTicketController.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\Controllers\\AddTicketController.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Controllers\\AddTicketController.cs",
+              "RelativeToolTip": "DebraEventApp\\Controllers\\AddTicketController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T16:14:49.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddEventController.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Controllers\\AddEventController.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\Controllers\\AddEventController.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Controllers\\AddEventController.cs",
+              "RelativeToolTip": "DebraEventApp\\Controllers\\AddEventController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwFAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T15:23:02.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddTicketCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\DTO\\AddTicketCreateDTO.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\DTO\\AddTicketCreateDTO.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\DTO\\AddTicketCreateDTO.cs",
+              "RelativeToolTip": "DebraEventApp\\DTO\\AddTicketCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T05:37:04.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddTicketProfile.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Profiles\\AddTicketProfile.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\Profiles\\AddTicketProfile.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Profiles\\AddTicketProfile.cs",
+              "RelativeToolTip": "DebraEventApp\\Profiles\\AddTicketProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T05:41:18.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Model\\Login.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\Model\\Login.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Model\\Login.cs",
+              "RelativeToolTip": "DebraEventApp\\Model\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T15:06:49.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddEventProfile.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Profiles\\AddEventProfile.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\Profiles\\AddEventProfile.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Profiles\\AddEventProfile.cs",
+              "RelativeToolTip": "DebraEventApp\\Profiles\\AddEventProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T06:19:13.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IAddEventRepo.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Data\\IAddEventRepo.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\Data\\IAddEventRepo.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Data\\IAddEventRepo.cs",
+              "RelativeToolTip": "DebraEventApp\\Data\\IAddEventRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:22:33.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddEventCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\DTO\\AddEventCreateDTO.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\DTO\\AddEventCreateDTO.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\DTO\\AddEventCreateDTO.cs",
+              "RelativeToolTip": "DebraEventApp\\DTO\\AddEventCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:28:15.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddEvent.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Model\\AddEvent.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\Model\\AddEvent.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Model\\AddEvent.cs",
+              "RelativeToolTip": "DebraEventApp\\Model\\AddEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:35:28.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PartnerRegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Controllers\\PartnerRegisterController.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\Controllers\\PartnerRegisterController.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Controllers\\PartnerRegisterController.cs",
+              "RelativeToolTip": "DebraEventApp\\Controllers\\PartnerRegisterController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowEYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:21:26.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PartnerRegisterProfile.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Profiles\\PartnerRegisterProfile.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\Profiles\\PartnerRegisterProfile.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Profiles\\PartnerRegisterProfile.cs",
+              "RelativeToolTip": "DebraEventApp\\Profiles\\PartnerRegisterProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T22:34:11.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPartnerRegisterRepo.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Data\\IPartnerRegisterRepo.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\Data\\IPartnerRegisterRepo.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Data\\IPartnerRegisterRepo.cs",
+              "RelativeToolTip": "DebraEventApp\\Data\\IPartnerRegisterRepo.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T04:08:51.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PartnerRegisterCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\DTO\\PartnerRegisterCreateDTO.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\DTO\\PartnerRegisterCreateDTO.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\DTO\\PartnerRegisterCreateDTO.cs",
+              "RelativeToolTip": "DebraEventApp\\DTO\\PartnerRegisterCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:49:59.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PartnerRegisterReadDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\DTO\\PartnerRegisterReadDTO.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\DTO\\PartnerRegisterReadDTO.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\DTO\\PartnerRegisterReadDTO.cs",
+              "RelativeToolTip": "DebraEventApp\\DTO\\PartnerRegisterReadDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T13:56:48.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PartnerLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\DTO\\PartnerLoginDTO.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\DTO\\PartnerLoginDTO.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\DTO\\PartnerLoginDTO.cs",
+              "RelativeToolTip": "DebraEventApp\\DTO\\PartnerLoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T22:26:25.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PartnerLogin.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Model\\PartnerLogin.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\Model\\PartnerLogin.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\Model\\PartnerLogin.cs",
+              "RelativeToolTip": "DebraEventApp\\Model\\PartnerLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:12:23.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DebraEventApp.csproj",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\DebraEventApp.csproj",
+              "RelativeDocumentMoniker": "DebraEventApp\\DebraEventApp.csproj",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\DebraEventApp.csproj",
+              "RelativeToolTip": "DebraEventApp\\DebraEventApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T16:32:47.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\appsettings.json",
+              "RelativeDocumentMoniker": "DebraEventApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\Debra API\\DebraEventApp\\DebraEventApp\\appsettings.json",
+              "RelativeToolTip": "DebraEventApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T16:32:39.353Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

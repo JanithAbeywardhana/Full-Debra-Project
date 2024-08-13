@@ -1,0 +1,455 @@
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\appsettings.Development.json
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\appsettings.json
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\DebraEventApp.exe
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\DebraEventApp.deps.json
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\DebraEventApp.runtimeconfig.json
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\DebraEventApp.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\DebraEventApp.pdb
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\AutoMapper.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Azure.Core.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Azure.Identity.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Humanizer.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.CodeDom.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Text.Json.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Debra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Debra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.csproj.AssemblyReference.cache
+D:\Debra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Debra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.AssemblyInfoInputs.cache
+D:\Debra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.AssemblyInfo.cs
+D:\Debra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.csproj.CoreCompileInputs.cache
+D:\Debra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Debra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Debra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\Debra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\Debra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets\msbuild.DebraEventApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Debra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets\msbuild.build.DebraEventApp.props
+D:\Debra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DebraEventApp.props
+D:\Debra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DebraEventApp.props
+D:\Debra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Debra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\scopedcss\bundle\DebraEventApp.styles.css
+D:\Debra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEve.ACE4700B.Up2Date
+D:\Debra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.dll
+D:\Debra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\refint\DebraEventApp.dll
+D:\Debra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.pdb
+D:\Debra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.genruntimeconfig.cache
+D:\Debra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\ref\DebraEventApp.dll
+D:\SampleDebra\SampleDebra\DebraEventApp\obj\Debug\net6.0\DebraEventApp.csproj.AssemblyReference.cache
+D:\SampleDebra\SampleDebra\DebraEventApp\obj\Debug\net6.0\DebraEventApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SampleDebra\SampleDebra\DebraEventApp\obj\Debug\net6.0\DebraEventApp.AssemblyInfoInputs.cache
+D:\SampleDebra\SampleDebra\DebraEventApp\obj\Debug\net6.0\DebraEventApp.AssemblyInfo.cs
+D:\SampleDebra\SampleDebra\DebraEventApp\obj\Debug\net6.0\DebraEventApp.csproj.CoreCompileInputs.cache
+D:\SampleDebra\SampleDebra\DebraEventApp\obj\Debug\net6.0\DebraEventApp.MvcApplicationPartsAssemblyInfo.cs
+D:\SampleDebra\SampleDebra\DebraEventApp\obj\Debug\net6.0\DebraEventApp.MvcApplicationPartsAssemblyInfo.cache
+D:\SampleDebra\SampleDebra\DebraEventApp\obj\Debug\net6.0\DebraEventApp.dll
+D:\SampleDebra\SampleDebra\DebraEventApp\obj\Debug\net6.0\refint\DebraEventApp.dll
+D:\SampleDebra\SampleDebra\DebraEventApp\obj\Debug\net6.0\DebraEventApp.pdb
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\appsettings.Development.json
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\appsettings.json
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\DebraEventApp.exe
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\DebraEventApp.deps.json
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\DebraEventApp.runtimeconfig.json
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\DebraEventApp.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\DebraEventApp.pdb
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\AutoMapper.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Azure.Core.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Azure.Identity.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Humanizer.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.CodeDom.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Memory.Data.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Text.Json.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.csproj.AssemblyReference.cache
+D:\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.AssemblyInfoInputs.cache
+D:\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.AssemblyInfo.cs
+D:\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.csproj.CoreCompileInputs.cache
+D:\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.MvcApplicationPartsAssemblyInfo.cs
+D:\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.MvcApplicationPartsAssemblyInfo.cache
+D:\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets\msbuild.DebraEventApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets\msbuild.build.DebraEventApp.props
+D:\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DebraEventApp.props
+D:\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DebraEventApp.props
+D:\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\scopedcss\bundle\DebraEventApp.styles.css
+D:\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEve.ACE4700B.Up2Date
+D:\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\refint\DebraEventApp.dll
+D:\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.pdb
+D:\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.genruntimeconfig.cache
+D:\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\ref\DebraEventApp.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\appsettings.json
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\DebraEventApp.exe
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\DebraEventApp.deps.json
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\DebraEventApp.runtimeconfig.json
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\DebraEventApp.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\DebraEventApp.pdb
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.csproj.AssemblyReference.cache
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.AssemblyInfoInputs.cache
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.AssemblyInfo.cs
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.csproj.CoreCompileInputs.cache
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets\msbuild.DebraEventApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets\msbuild.build.DebraEventApp.props
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DebraEventApp.props
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DebraEventApp.props
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\scopedcss\bundle\DebraEventApp.styles.css
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEve.ACE4700B.Up2Date
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\refint\DebraEventApp.dll
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.pdb
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.genruntimeconfig.cache
+C:\Users\dkalh\OneDrive\Desktop\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\ref\DebraEventApp.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\appsettings.json
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\DebraEventApp.exe
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\DebraEventApp.deps.json
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\DebraEventApp.runtimeconfig.json
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\DebraEventApp.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\DebraEventApp.pdb
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.csproj.AssemblyReference.cache
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.AssemblyInfoInputs.cache
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.AssemblyInfo.cs
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.csproj.CoreCompileInputs.cache
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets\msbuild.DebraEventApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets\msbuild.build.DebraEventApp.props
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DebraEventApp.props
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DebraEventApp.props
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\scopedcss\bundle\DebraEventApp.styles.css
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEve.ACE4700B.Up2Date
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\refint\DebraEventApp.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.pdb
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.genruntimeconfig.cache
+C:\Users\dkalh\OneDrive\Desktop\SSS\SampleDebra\DebraEventApp\DebraEventApp\obj\Debug\net6.0\ref\DebraEventApp.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\appsettings.json
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\DebraEventApp.exe
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\DebraEventApp.deps.json
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\DebraEventApp.runtimeconfig.json
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\DebraEventApp.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\DebraEventApp.pdb
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.csproj.AssemblyReference.cache
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.AssemblyInfoInputs.cache
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.AssemblyInfo.cs
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.csproj.CoreCompileInputs.cache
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets\msbuild.DebraEventApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets\msbuild.build.DebraEventApp.props
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DebraEventApp.props
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DebraEventApp.props
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\obj\Debug\net6.0\scopedcss\bundle\DebraEventApp.styles.css
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEve.ACE4700B.Up2Date
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\obj\Debug\net6.0\refint\DebraEventApp.dll
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.pdb
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\obj\Debug\net6.0\DebraEventApp.genruntimeconfig.cache
+C:\Users\dkalh\OneDrive\Desktop\SSS\Debra API\DebraEventApp\DebraEventApp\obj\Debug\net6.0\ref\DebraEventApp.dll

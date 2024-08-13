@@ -1,0 +1,31 @@
+﻿.footer {
+    padding: 1rem 0; /* Padding for top and bottom */
+    background-color: #f8f9fa; /* Light background color */
+    text-align: center; /* Center-align text */
+    font-size: 0.875rem; /* Small font size */
+    color: #6c757d; /* Muted text color */
+}
+
+/* Border top style */
+.border-top {
+    border-top: 1px solid #dee2e6; /* Light border on top */
+}
+
+/* Container styling within the footer */
+.footer .container {
+    max-width: 1140px; /* Max width for container */
+    margin: 0 auto; /* Center align container */
+    padding: 0 15px; /* Horizontal padding */
+}
+
+/* Link styles within the footer */
+.footer a {
+    color: #007bff; /* Link color */
+    text-decoration: none; /* Remove underline from links */
+    transition: color 0.3s ease; /* Smooth transition for color change */
+}
+
+    .footer a:hover {
+        color: #0056b3; /* Darker color on hover */
+        text-decoration: underline; /* Underline on hover */
+    }

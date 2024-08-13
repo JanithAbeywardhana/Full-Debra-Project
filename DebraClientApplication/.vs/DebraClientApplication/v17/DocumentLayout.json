@@ -1,0 +1,367 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|c:\\users\\dkalh\\onedrive\\desktop\\sss\\debraclientapplication\\debraclientapplication\\addticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|solutionrelative:debraclientapplication\\addticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\debraclientapplication\\addticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|solutionrelative:debraclientapplication\\addticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\debraclientapplication\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|solutionrelative:debraclientapplication\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\debraclientapplication\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|solutionrelative:debraclientapplication\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\debraclientapplication\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|solutionrelative:debraclientapplication\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\debraclientapplication\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|solutionrelative:debraclientapplication\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\debraclientapplication\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|solutionrelative:debraclientapplication\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\debraclientapplication\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|solutionrelative:debraclientapplication\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\debraclientapplication\\manage partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|solutionrelative:debraclientapplication\\manage partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\debraclientapplication\\manage partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|solutionrelative:debraclientapplication\\manage partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\debraclientapplication\\mlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|solutionrelative:debraclientapplication\\mlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\debraclientapplication\\mlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|solutionrelative:debraclientapplication\\mlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\debraclientapplication\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|solutionrelative:debraclientapplication\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\debraclientapplication\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|solutionrelative:debraclientapplication\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\debraclientapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|solutionrelative:debraclientapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\debraclientapplication\\management dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|solutionrelative:debraclientapplication\\management dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\debraclientapplication\\management dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|solutionrelative:debraclientapplication\\management dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\debraclientapplication\\management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|solutionrelative:debraclientapplication\\management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\debraclientapplication\\privacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|solutionrelative:debraclientapplication\\privacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\debraclientapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|solutionrelative:debraclientapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\debraclientapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|solutionrelative:debraclientapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\debraclientapplication\\privacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|solutionrelative:debraclientapplication\\privacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\debraclientapplication\\viewevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2135E4FF-8FA1-4C20-B7D6-E20FABE1C5EB}|DebraClientApplication\\DebraClientApplication.csproj|solutionrelative:debraclientapplication\\viewevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Event.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\Event.cs",
+              "RelativeDocumentMoniker": "DebraClientApplication\\Event.cs",
+              "ToolTip": "D:\\Debra\\DebraClientApplication\\DebraClientApplication\\Event.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:24:54.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\Login.cs",
+              "RelativeDocumentMoniker": "DebraClientApplication\\Login.cs",
+              "ToolTip": "D:\\Debra\\DebraClientApplication\\DebraClientApplication\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:21:42.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddTicket.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\AddTicket.cs",
+              "RelativeDocumentMoniker": "DebraClientApplication\\AddTicket.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\AddTicket.cs",
+              "RelativeToolTip": "DebraClientApplication\\AddTicket.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAIAwwLYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:50:54.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Manage Partner.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\Manage Partner.cs",
+              "RelativeDocumentMoniker": "DebraClientApplication\\Manage Partner.cs",
+              "ToolTip": "D:\\Debra\\DebraClientApplication\\DebraClientApplication\\Manage Partner.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T07:14:42.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Manage Partner.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\Manage Partner.cs",
+              "RelativeDocumentMoniker": "DebraClientApplication\\Manage Partner.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\Manage Partner.cs",
+              "RelativeToolTip": "DebraClientApplication\\Manage Partner.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAIAwwEoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T06:43:11.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\Event.cs",
+              "RelativeDocumentMoniker": "DebraClientApplication\\Event.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\Event.cs",
+              "RelativeToolTip": "DebraClientApplication\\Event.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAewEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:12:46.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddTicket.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\AddTicket.cs",
+              "RelativeDocumentMoniker": "DebraClientApplication\\AddTicket.cs",
+              "ToolTip": "D:\\Debra\\DebraClientApplication\\DebraClientApplication\\AddTicket.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:50:52.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\Login.cs",
+              "RelativeDocumentMoniker": "DebraClientApplication\\Login.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\Login.cs",
+              "RelativeToolTip": "DebraClientApplication\\Login.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAewCgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:04:14.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashBoard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\DashBoard.cs",
+              "RelativeDocumentMoniker": "DebraClientApplication\\DashBoard.cs",
+              "ToolTip": "D:\\Debra\\DebraClientApplication\\DebraClientApplication\\DashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:13:34.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashBoard.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\DashBoard.cs",
+              "RelativeDocumentMoniker": "DebraClientApplication\\DashBoard.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\DashBoard.cs",
+              "RelativeToolTip": "DebraClientApplication\\DashBoard.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:46:40.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MLogin.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\MLogin.cs",
+              "RelativeDocumentMoniker": "DebraClientApplication\\MLogin.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\MLogin.cs",
+              "RelativeToolTip": "DebraClientApplication\\MLogin.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAApwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:23:35.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\MLogin.cs",
+              "RelativeDocumentMoniker": "DebraClientApplication\\MLogin.cs",
+              "ToolTip": "D:\\Debra\\DebraClientApplication\\DebraClientApplication\\MLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:25:40.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "DebraClientApplication\\Form1.cs",
+              "ToolTip": "D:\\Debra\\DebraClientApplication\\DebraClientApplication\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T23:42:02.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\Register.cs",
+              "RelativeDocumentMoniker": "DebraClientApplication\\Register.cs",
+              "ToolTip": "D:\\Debra\\DebraClientApplication\\DebraClientApplication\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:21:46.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Management Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\Management Dashboard.cs",
+              "RelativeDocumentMoniker": "DebraClientApplication\\Management Dashboard.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\Management Dashboard.cs",
+              "RelativeToolTip": "DebraClientApplication\\Management Dashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwDIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:25:15.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\Register.cs",
+              "RelativeDocumentMoniker": "DebraClientApplication\\Register.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\Register.cs",
+              "RelativeToolTip": "DebraClientApplication\\Register.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwCgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T00:54:45.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Management Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\Management Dashboard.cs",
+              "RelativeDocumentMoniker": "DebraClientApplication\\Management Dashboard.cs",
+              "ToolTip": "D:\\Debra\\DebraClientApplication\\DebraClientApplication\\Management Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T23:43:09.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Management.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\Management.cs",
+              "RelativeDocumentMoniker": "DebraClientApplication\\Management.cs",
+              "ToolTip": "D:\\Debra\\DebraClientApplication\\DebraClientApplication\\Management.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:22:27.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Privacy.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\Privacy.cs",
+              "RelativeDocumentMoniker": "DebraClientApplication\\Privacy.cs",
+              "ToolTip": "D:\\Debra\\DebraClientApplication\\DebraClientApplication\\Privacy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T18:24:40.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\Program.cs",
+              "RelativeDocumentMoniker": "DebraClientApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\Program.cs",
+              "RelativeToolTip": "DebraClientApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T20:57:21.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "DebraClientApplication\\Form1.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\Form1.cs",
+              "RelativeToolTip": "DebraClientApplication\\Form1.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T00:51:18.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ViewEvents.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\ViewEvents.cs",
+              "RelativeDocumentMoniker": "DebraClientApplication\\ViewEvents.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\ViewEvents.cs",
+              "RelativeToolTip": "DebraClientApplication\\ViewEvents.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAkwC0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:27:08.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Privacy.cs",
+              "DocumentMoniker": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\Privacy.cs",
+              "RelativeDocumentMoniker": "DebraClientApplication\\Privacy.cs",
+              "ToolTip": "C:\\Users\\dkalh\\OneDrive\\Desktop\\SSS\\DebraClientApplication\\DebraClientApplication\\Privacy.cs",
+              "RelativeToolTip": "DebraClientApplication\\Privacy.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:31:42.142Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

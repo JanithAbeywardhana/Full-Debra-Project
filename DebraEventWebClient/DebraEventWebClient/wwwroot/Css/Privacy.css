@@ -1,0 +1,21 @@
+﻿p {
+    font-size: 1.5rem; /* Larger font size */
+    font-weight: 400; /* Normal font weight */
+    color: #333; /* Dark gray color for the text */
+    line-height: 1.6; /* Increase line height for better readability */
+    margin: 20px 0; /* Add vertical margin */
+    padding: 10px 20px; /* Add padding around the paragraph */
+    background-color: #f8f9fa; /* Light background color */
+    /*border: 1px solid #e2e2e2; /* Light gray border */
+    /*border-radius: 8px; /* Rounded corners */
+    /*box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    text-align: justify; /* Justify the text */
+}
+
+/* Add responsiveness for smaller screens */
+@media (max-width: 768px) {
+    p {
+        font-size: 1.25rem; /* Adjust font size for smaller screens */
+        padding: 8px 15px; /* Adjust padding for smaller screens */
+    }
+}

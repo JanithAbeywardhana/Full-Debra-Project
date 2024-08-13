@@ -1,0 +1,73 @@
+﻿@page
+@model DebraEventWebClient.Pages.ViewCommissionModel
+@{
+}
+
+<body>
+    <table border= "1">
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+            <th>IsSold</th>
+            <th>Price </th>
+            <th>Commission</th>
+        </tr>
+
+        @foreach(var ticketCommission in Model.ticketCommissions)
+        {
+            <tr>
+                <td>@ticketCommission.Id</td>
+                <td>@ticketCommission.Title</td>
+                <td>@ticketCommission.IsSold</td>
+                <td>@ticketCommission.Price</td>
+                <td>@ticketCommission.Commission</td>
+            </tr>
+            
+        }
+
+        
+
+</table>
+
+<p> 
+    What's happening here is that if sell is false, the ticket hasn't been sold yet.
+    Once the advertiser sells tickets, proceeds will be used for debra event activities.
+
+</p>
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
